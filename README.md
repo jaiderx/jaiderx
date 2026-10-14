@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaiderxavier"><img src="https://img.shields.io/badge/LinkedIn-jaiderxavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.credly.com/badges/85ebda94-4afe-4e20-ac98-deb4cb977e14/public_url"><img src="https://img.shields.io/badge/SAP_Certified-Business_One-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Certified – SAP Business One" /></a>
   <a href="https://jverso.com"><img src="https://img.shields.io/badge/JVerso-jverso.com-1BB3A9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="JVerso" /></a>
+  <a href="https://www.linkedin.com/in/jaiderxavier"><img src="https://img.shields.io/badge/LinkedIn-jaiderxavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
