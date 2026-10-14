@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="BR" /> <b>Português</b> &nbsp;·&nbsp; <a href="https://github.com/jaiderx/jaiderx/blob/main/README.es.md"><img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt="ES" /> Español</a> &nbsp;·&nbsp; <a href="https://github.com/jaiderx/jaiderx/blob/main/README.en.md"><img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US" /> English</a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Travas+em+TransactionNotification+%C2%B7+Calculation+Views;Determina%C3%A7%C3%A3o+de+contas%2C+impostos+e+cutover;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
   </a>
