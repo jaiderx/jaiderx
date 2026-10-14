@@ -56,18 +56,30 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT*
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Agent_Skills-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Agent Skills" />
   <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Spec--Driven_Development-0A2540?style=flat-square" alt="Spec-Driven Development" />
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-0A2540?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHoiLz48cGF0aCBkPSJNMTQgMnY2aDYiLz48cGF0aCBkPSJtOSAxNSAyIDIgNC00Ii8%2BPC9zdmc%2B" alt="Spec-Driven Development" />
   <img src="https://img.shields.io/badge/Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers AI" />
 </p>
 
 <h4 align="center">Dados e infraestrutura</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/PostgreSQL_·_pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL e pgvector" />
-  <img src="https://img.shields.io/badge/Firebird-F40F02?style=flat-square" alt="Firebird" />
+  <img src="https://img.shields.io/badge/Firebird-F40F02?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxlbGxpcHNlIGN4PSIxMiIgY3k9IjUiIHJ4PSI4IiByeT0iMyIvPjxwYXRoIGQ9Ik00IDV2MTRjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTJjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtMyIvPjwvc3ZnPg%3D%3D" alt="Firebird" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware ESXi" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense" />
+</p>
+
+<h4 align="center">Gestão de projetos</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agile-0A6ED1?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDEyYTggOCAwIDEgMCA4LTgiLz48cGF0aCBkPSJNMTIgNCA5IDEiLz48cGF0aCBkPSJNMTIgNCA5IDciLz48cGF0aCBkPSJNMTIgOHY0bDMgMiIvPjwvc3ZnPg%3D%3D" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/SDLC-0A2540?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yMSAxMmE5IDkgMCAwIDEtMTUuNSA2LjIiLz48cGF0aCBkPSJNMyAxMkE5IDkgMCAwIDEgMTguNSA1LjgiLz48cGF0aCBkPSJNMTguNSAydjRoLTQiLz48cGF0aCBkPSJNNS41IDIydi00aDQiLz48L3N2Zz4%3D" alt="SDLC" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white" alt="ClickUp" />
 </p>
 
 ---
