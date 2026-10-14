@@ -144,7 +144,11 @@ Problemas pontuais que consultorias e clientes de SAP Business One costumam ter 
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiderx&bg_color=0D1117&color=C9D1D9&line=0A6ED1&point=1BB3A9&area=true&area_color=0A6ED1&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-green-animate.svg" />
+    <img width="96%" alt="Atividade de contribuições" src="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-night-view.svg" />
+  </picture>
 </p>
 
 <p align="center">

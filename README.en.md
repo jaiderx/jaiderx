@@ -144,7 +144,11 @@ Specific pain points that SAP Business One consultancies and customers often str
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiderx&bg_color=0D1117&color=C9D1D9&line=0A6ED1&point=1BB3A9&area=true&area_color=0A6ED1&hide_border=true&custom_title=Activity%20in%20the%20last%2031%20days" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-green-animate.svg" />
+    <img width="96%" alt="Contribution activity" src="https://raw.githubusercontent.com/jaiderx/jaiderx/output/profile-night-view.svg" />
+  </picture>
 </p>
 
 <p align="center">
