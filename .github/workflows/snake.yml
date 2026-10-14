@@ -30,12 +30,14 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
 
       - name: Juntar gráfico 3D aos arquivos publicados
-        run: cp profile-3d-contrib/*.svg dist/
+        run: |
+          mkdir -p publish
+          cp dist/*.svg profile-3d-contrib/*.svg publish/
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
