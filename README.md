@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+DI+API+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+assistido+por+IA;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+DI+API+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestração+Agentes+IA;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 👋 Sobre mim
 
-Arquiteto de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP nos dois lados do balcão: implantei o **SAP Business One** como gerente de TI de indústria e hoje projeto add-ons, integrações e estruturas de dados numa software house **SAP Gold Partner** focada no agronegócio.
+Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP nos dois lados do balcão: implantei o **SAP Business One** como gerente de TI de indústria e hoje projeto add-ons, integrações e estruturas de dados numa software house **SAP Gold Partner** focada no agronegócio.
 
 - 🧭 Traduzo regra de negócio e problema de usuário em **especificação, modelo de dados e código**.
 - 🗄️ Bancos que administro e modelo: **SAP HANA, SQL Server, Oracle, PostgreSQL e Firebird**.
@@ -33,7 +33,7 @@ Arquiteto de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP 
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,linux,ubuntu,windows,cloudflare,git,github,vscode,powershell,bash&perline=13" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres,linux,ubuntu,windows,cloudflare,powershell,bash&perline=13" alt="Stack" />
 </p>
 
 <p align="center">
@@ -47,7 +47,6 @@ Arquiteto de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP 
   <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUnit-2E7D32?style=flat-square" />
 </p>
 
 ---
@@ -68,7 +67,7 @@ Arquiteto de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP 
     </td>
     <td width="33%" valign="top">
       <h4>🛰️ Dispatch</h4>
-      <sub>SAP BTP · CAP · Node.js · OData V4</sub><br/><br/>
+      <sub>Integrações SAP BTP · CAP · Node.js ·</sub><br/><br/>
       Proxy que expõe notas fiscais do SAP B1 em tempo real pela Service Layer, sem banco intermediário, para apps no SAP Build Apps.
     </td>
   </tr>
