@@ -33,7 +33,7 @@ Consultoría SAP Sénior / Arquitectura de software y de datos en Brasil, con ca
 
 ---
 
-## 🎯 Dónde marco la diferencia
+## 🎯 Diferenciales
 
 Problemas puntuales que consultoras y clientes de SAP Business One suelen tener dificultad para resolver:
 
@@ -112,7 +112,7 @@ Problemas puntuales que consultoras y clientes de SAP Business One suelen tener 
 
 ---
 
-## 🚀 Destacados
+## 🚀 Proyectos
 
 <table>
   <tr>
@@ -127,9 +127,9 @@ Problemas puntuales que consultoras y clientes de SAP Business One suelen tener 
       Réplica local compilada a partir de un origen de solo lectura, con catálogo de tablas configurable en base de datos, enmascaramiento de datos sensibles y log de ejecución.
     </td>
     <td width="33%" valign="top">
-      <h4>🛰️ Dispatch</h4>
-      <sub>Integraciones SAP BTP · CAP · Node.js</sub><br/><br/>
-      Proxy que expone facturas de SAP B1 en tiempo real a través de Service Layer, sin base intermedia, para apps en SAP Build Apps.
+      <h4>💳 Módulo de Control de Crédito</h4>
+      <sub>SAP B1 · industria semillera · de la spec a la entrega</sub><br/><br/>
+      Bloqueo de la emisión de factura en el romaneo de salida cuando el saldo financiero del contrato no cubre la facturación. Saldo calculado con anticipos conciliados, autorizaciones manuales y monto ya facturado, con liberación restringida a aprobadores, historial auditable, excepción para ventas al contado y activación por parámetro.
     </td>
   </tr>
 </table>

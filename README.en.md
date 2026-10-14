@@ -33,7 +33,7 @@ Senior SAP Consulting / Software & Data Architecture in Brazil, with projects ac
 
 ---
 
-## 🎯 Where I make a difference
+## 🎯 Highlights
 
 Specific pain points that SAP Business One consultancies and customers often struggle to solve:
 
@@ -112,7 +112,7 @@ Specific pain points that SAP Business One consultancies and customers often str
 
 ---
 
-## 🚀 Featured
+## 🚀 Projects
 
 <table>
   <tr>
@@ -127,9 +127,9 @@ Specific pain points that SAP Business One consultancies and customers often str
       Compiled local replica from a read-only source, with a table catalog configurable in the database, sensitive-data masking and execution logs.
     </td>
     <td width="33%" valign="top">
-      <h4>🛰️ Dispatch</h4>
-      <sub>SAP BTP integrations · CAP · Node.js</sub><br/><br/>
-      Proxy that exposes SAP B1 invoices in real time through the Service Layer, with no intermediate database, for apps built on SAP Build Apps.
+      <h4>💳 Credit Control Module</h4>
+      <sub>SAP B1 · seed industry · from spec to delivery</sub><br/><br/>
+      Blocks invoice issuance on outbound shipments when the contract’s financial balance does not cover the billing. The balance combines reconciled advance payments, manual authorizations and amounts already invoiced, with release restricted to approvers, an auditable history, a cash-sale exception and activation by parameter.
     </td>
   </tr>
 </table>
