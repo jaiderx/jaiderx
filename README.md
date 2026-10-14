@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+DI+API+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestração+Agentes+IA;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+DI+API+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
   </a>
 </p>
 
@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/jaiderxavier"><img src="https://img.shields.io/badge/LinkedIn-jaiderxavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.credly.com/badges/85ebda94-4afe-4e20-ac98-deb4cb977e14/public_url"><img src="https://img.shields.io/badge/SAP_Certified-Business_One-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Certified – SAP Business One" /></a>
   <a href="https://jverso.com"><img src="https://img.shields.io/badge/JVerso-jverso.com-1BB3A9?style=for-the-badge&logo=cloudflare&logoColor=white" alt="JVerso" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jaiderx&label=visitas&color=0A2540&style=for-the-badge" alt="Visitas ao perfil" />
 </p>
 
 ---
@@ -22,9 +21,9 @@
 
 Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP nos dois lados do balcão: implantei o **SAP Business One** como gerente de TI de indústria e hoje projeto add-ons, integrações e estruturas de dados numa software house **SAP Gold Partner** focada no agronegócio.
 
-- 🧭 Traduzo regra de negócio e problema de usuário em **especificação, modelo de dados e código**.
+- 🧭 Traduzo regra de negócio e problema de usuário em **especificação e modelo de dados**, e oriento a IA a transformar isso em código revisado.
 - 🗄️ Bancos que administro e modelo: **SAP HANA, SQL Server, Oracle, PostgreSQL e Firebird**.
-- 🤖 Conduzo **desenvolvimento orientado a especificação (SDD) com IA**, do chamado do cliente ao pull request aprovado.
+- 🤖 Conduzo **desenvolvimento orientado a especificação (SDD) com Claude** (Claude Code, skills e MCP), do chamado do cliente ao pull request aprovado.
 - 🌾 Domínio forte em **agro** (algodão, sementes, grãos, fertilizantes), **financeiro, crédito, importações e integração bancária**.
 - 🔭 Hoje: arquitetura **clean core** para SAP B1, integrações via **Service Layer / SAP BTP** e IA aplicada a ERP.
 
@@ -36,17 +35,39 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT*
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres,linux,ubuntu,windows,cloudflare,powershell,bash&perline=13" alt="Stack" />
 </p>
 
+<h4 align="center">SAP</h4>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP_Business_One-0A6ED1?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_HANA-0A6ED1?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/DI_API_·_UI_API-0A2540?style=flat-square" />
-  <img src="https://img.shields.io/badge/Service_Layer_·_OData_V4-0A2540?style=flat-square" />
-  <img src="https://img.shields.io/badge/SAP_BTP_·_CAP-0A6ED1?style=flat-square&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_Business_One-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP Business One" />
+  <img src="https://img.shields.io/badge/SAP_HANA-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" />
+  <img src="https://img.shields.io/badge/DI_API_·_UI_API-0A2540?style=flat-square&logo=sap&logoColor=white" alt="DI API e UI API" />
+  <img src="https://img.shields.io/badge/Service_Layer_·_OData_V4-0A2540?style=flat-square&logo=sap&logoColor=white" alt="Service Layer" />
+  <img src="https://img.shields.io/badge/SAP_BTP_·_CAP-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP e CAP" />
+  <img src="https://img.shields.io/badge/SAP_Build_Apps-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP Build Apps" />
+  <img src="https://img.shields.io/badge/UDO_·_UDT_·_UDF-0A2540?style=flat-square&logo=sap&logoColor=white" alt="UDO, UDT e UDF" />
+  <img src="https://img.shields.io/badge/DTW-0A2540?style=flat-square&logo=sap&logoColor=white" alt="Data Transfer Workbench" />
+  <img src="https://img.shields.io/badge/SAP_R%2F3_·_MM-0A2540?style=flat-square&logo=sap&logoColor=white" alt="SAP R/3 MM" />
+</p>
+
+<h4 align="center">IA</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Agent_Skills-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Agent Skills" />
+  <img src="https://img.shields.io/badge/MCP-191919?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Spec--Driven_Development-0A2540?style=flat-square" alt="Spec-Driven Development" />
+  <img src="https://img.shields.io/badge/Workers_AI-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers AI" />
+</p>
+
+<h4 align="center">Dados e infraestrutura</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PostgreSQL_·_pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL e pgvector" />
+  <img src="https://img.shields.io/badge/Firebird-F40F02?style=flat-square" alt="Firebird" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
 </p>
 
 ---
@@ -57,8 +78,8 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT*
   <tr>
     <td width="33%" valign="top">
       <h4>💱 Base corporativa de câmbio</h4>
-      <sub>SAP B1 · C# · UDO</sub><br/><br/>
-      Fonte única de cotações de compra e venda do Banco Central para vários add-ons, com log de alterações, autorização de objeto, gravação idempotente e testes NUnit.
+      <sub>SAP B1 · UDO · GeneralService</sub><br/><br/>
+      Fonte única de cotações de compra e venda do Banco Central para vários add-ons, com log de alterações, autorização de objeto, gravação idempotente e testes automatizados.
     </td>
     <td width="33%" valign="top">
       <h4>🔄 PostgreSQL com sincronização incremental</h4>
@@ -67,7 +88,7 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT*
     </td>
     <td width="33%" valign="top">
       <h4>🛰️ Dispatch</h4>
-      <sub>Integrações SAP BTP · CAP · Node.js ·</sub><br/><br/>
+      <sub>Integrações SAP BTP · CAP · Node.js</sub><br/><br/>
       Proxy que expõe notas fiscais do SAP B1 em tempo real pela Service Layer, sem banco intermediário, para apps no SAP Build Apps.
     </td>
   </tr>
