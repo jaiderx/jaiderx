@@ -1,7 +1,9 @@
 <!-- Cabeçalho animado -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0A6ED1,100:1BB3A9&height=210&section=header&text=Jaider%20Xavier%20J%C3%BAnior&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Arquitetura%20de%20Software%20e%20Dados%20%C2%B7%20SAP%20Business%20One&descSize=18&descAlignY=56&animation=fadeIn" alt="Jaider Xavier Júnior" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0A6ED1,100:1BB3A9&height=210&section=header&text=Jaider%20Xavier%20J%C3%BAnior&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=20%20anos%20aprendendo%2C%20ensinando%20e%20criando%20solu%C3%A7%C3%B5es&descSize=16&descAlignY=56&animation=fadeIn" alt="Jaider Xavier Júnior" />
 </p>
+
 
 <p align="center">
   <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="BR" /> <b>Português</b> &nbsp;·&nbsp; <a href="https://github.com/jaiderx/jaiderx/blob/main/README.es.md"><img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt="ES" /> Español</a> &nbsp;·&nbsp; <a href="https://github.com/jaiderx/jaiderx/blob/main/README.en.md"><img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="US" /> English</a>
