@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+DI+API+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
   </a>
 </p>
 
@@ -128,7 +128,7 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados no Brasil em cas
 
 ## 🤝 Vamos conversar
 
-Aberto a desafios sênior em **arquitetura de software, banco de dados e SAP Business One**, presencial em Cuiabá ou remoto.
+Desafios sênior em **SAP Business One, arquitetura de software, banco de dados, infraestrutura e gestão de projetos**, presencial ou remoto.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier"><img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fale comigo no LinkedIn" /></a>
