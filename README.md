@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiderxavier">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0A6ED1&center=true&vCenter=true&width=640&lines=20+anos+transformando+regra+de+neg%C3%B3cio+em+sistema;SAP+Business+One+%C2%B7+Service+Layer+%C2%B7+HANA;PostgreSQL+%C2%B7+SQL+Server+%C2%B7+Oracle;Travas+em+TransactionNotification+%C2%B7+Calculation+Views;Determina%C3%A7%C3%A3o+de+contas%2C+impostos+e+cutover;Spec-Driven+Development+com+orquestra%C3%A7%C3%A3o+de+Agentes+IA;Claude+Code+%2B+Skills+%2B+MCP;Agro%2C+financeiro%2C+cr%C3%A9dito+e+integra%C3%A7%C3%B5es" alt="Type SVG" />
   </a>
 </p>
 
@@ -26,6 +26,31 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados no Brasil em cas
 - 🤖 Conduzo **desenvolvimento orientado a especificação (SDD) com Claude** (Claude Code, skills e MCP), do chamado do cliente ao pull request aprovado.
 - 🌾 Domínio forte em **agro** (algodão, sementes, grãos, fertilizantes), **financeiro, crédito, importações e integração bancária**.
 - 🔭 Hoje: arquitetura **clean core** para SAP B1, integrações via **Service Layer / SAP BTP** e IA aplicada a ERP.
+
+---
+
+## 🎯 Onde faço diferença
+
+Problemas pontuais que consultorias e clientes de SAP Business One costumam ter dificuldade de resolver:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Banco de dados no SAP B1</h4>
+      <ul>
+        <li><b>Travas de negócio</b> em <code>SBO_SP_TransactionNotification</code> e <code>SBO_SP_PostTransactionNotice</code> (SAP HANA e SQL Server), e triggers em outros bancos.</li>
+        <li><b>Procedures, Views e Calculation Views</b> para relatórios, integrações e consultas formatadas.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧾 Parametrização fiscal e contábil</h4>
+      <ul>
+        <li><b>Determinação de Contas do Razão</b>, <b>de Códigos de Imposto</b> e <b>de contas do Ativo Imobilizado</b>.</li>
+        <li><b>Cutover</b> bem feito, com importação correta de saldos iniciais.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
