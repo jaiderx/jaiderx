@@ -112,14 +112,14 @@ Problemas puntuales que consultoras y clientes de SAP Business One suelen tener 
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Proyectos recientes
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>💱 Base corporativa de tipos de cambio</h4>
-      <sub>SAP B1 · UDO · GeneralService</sub><br/><br/>
-      Fuente única de cotizaciones de compra y venta del Banco Central de Brasil para varios add-ons, con registro de cambios, autorización de objeto, grabación idempotente y pruebas automatizadas.
+      <h4>💱 Integración de tipo de cambio rastreable</h4>
+      <sub>SAP B1 · PTAX Banco Central de Brasil · UDO</sub><br/><br/>
+      Obtiene la PTAX de compra, de venta y promedio del Banco Central de Brasil y aplica el tipo de cambio en las distintas etapas de los contratos y en los documentos de marketing de SAP B1. Fuente única para varios add-ons, con registro de cambios, autorización de objeto, grabación idempotente y pruebas automatizadas.
     </td>
     <td width="33%" valign="top">
       <h4>🔄 PostgreSQL con sincronización incremental</h4>

@@ -112,14 +112,14 @@ Problemas pontuais que consultorias e clientes de SAP Business One costumam ter 
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projetos recentes
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>💱 Base corporativa de câmbio</h4>
-      <sub>SAP B1 · UDO · GeneralService</sub><br/><br/>
-      Fonte única de cotações de compra e venda do Banco Central para vários add-ons, com log de alterações, autorização de objeto, gravação idempotente e testes automatizados.
+      <h4>💱 Integração Taxa de câmbio rastreável</h4>
+      <sub>SAP B1 · PTAX Banco Central · UDO</sub><br/><br/>
+      Captura a PTAX de compra, de venda e média do Banco Central e aplica a taxa nas diversas etapas de contratos e nos documentos de marketing do SAP B1. Fonte única para vários add-ons, com log de alterações, autorização de objeto, gravação idempotente e testes automatizados.
     </td>
     <td width="33%" valign="top">
       <h4>🔄 PostgreSQL com sincronização incremental</h4>

@@ -112,14 +112,14 @@ Specific pain points that SAP Business One consultancies and customers often str
 
 ---
 
-## 🚀 Projects
+## 🚀 Recent projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>💱 Corporate FX rate base</h4>
-      <sub>SAP B1 · UDO · GeneralService</sub><br/><br/>
-      Single source of Brazilian Central Bank buy/sell exchange rates for multiple add-ons, with change log, object authorization, idempotent writes and automated tests.
+      <h4>💱 Traceable FX rate integration</h4>
+      <sub>SAP B1 · Brazilian Central Bank PTAX · UDO</sub><br/><br/>
+      Pulls the PTAX buy, sell and average rates from the Brazilian Central Bank and applies them across the contract stages and SAP B1 marketing documents. Single source for multiple add-ons, with change log, object authorization, idempotent writes and automated tests.
     </td>
     <td width="33%" valign="top">
       <h4>🔄 PostgreSQL with incremental sync</h4>
