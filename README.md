@@ -19,7 +19,7 @@
 
 ## 👋 Sobre mim
 
-Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT**, com **20 anos em TI** e SAP nos dois lados do balcão: implantei o **SAP Business One** como gerente de TI de indústria e hoje projeto add-ons, integrações e estruturas de dados numa software house **SAP Gold Partner** focada no agronegócio.
+Consultoria de SAP Sênior / Arquitetura de software e de dados no Brasil em cases na América Latina, com **20 anos em TI** e SAP nos dois lados do balcão: implantei o **SAP Business One** como gerente de TI de indústria e hoje projeto add-ons, integrações e estruturas de dados numa software house **SAP Gold Partner** focada no agronegócio.
 
 - 🧭 Traduzo regra de negócio e problema de usuário em **especificação e modelo de dados**, e oriento a IA a transformar isso em código revisado.
 - 🗄️ Bancos que administro e modelo: **SAP HANA, SQL Server, Oracle, PostgreSQL e Firebird**.
@@ -40,13 +40,10 @@ Consultoria de SAP Sênior / Arquitetura de software e de dados em **Cuiabá/MT*
 <p align="center">
   <img src="https://img.shields.io/badge/SAP_Business_One-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP Business One" />
   <img src="https://img.shields.io/badge/SAP_HANA-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP HANA" />
-  <img src="https://img.shields.io/badge/DI_API_·_UI_API-0A2540?style=flat-square&logo=sap&logoColor=white" alt="DI API e UI API" />
-  <img src="https://img.shields.io/badge/Service_Layer_·_OData_V4-0A2540?style=flat-square&logo=sap&logoColor=white" alt="Service Layer" />
+  <img src="https://img.shields.io/badge/Service_Layer-0A2540?style=flat-square&logo=sap&logoColor=white" alt="Service Layer" />
   <img src="https://img.shields.io/badge/SAP_BTP_·_CAP-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP BTP e CAP" />
   <img src="https://img.shields.io/badge/SAP_Build_Apps-0A6ED1?style=flat-square&logo=sap&logoColor=white" alt="SAP Build Apps" />
-  <img src="https://img.shields.io/badge/UDO_·_UDT_·_UDF-0A2540?style=flat-square&logo=sap&logoColor=white" alt="UDO, UDT e UDF" />
   <img src="https://img.shields.io/badge/DTW-0A2540?style=flat-square&logo=sap&logoColor=white" alt="Data Transfer Workbench" />
-  <img src="https://img.shields.io/badge/SAP_R%2F3_·_MM-0A2540?style=flat-square&logo=sap&logoColor=white" alt="SAP R/3 MM" />
 </p>
 
 <h4 align="center">IA</h4>
